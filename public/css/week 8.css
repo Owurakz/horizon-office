@@ -1,0 +1,15 @@
+.edit{
+    background-image: url("https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjQwNy1hZXctMTItbmV1cmFsdGV4dHVyZV8yLmpwZw.jpg"); background-position: center; color: bisque; height: 350px;
+}
+
+.head{
+    font-weight: bold; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ahead{
+    font-size: 3rem; color: blue;
+}

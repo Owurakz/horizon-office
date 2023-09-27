@@ -1,0 +1,44 @@
+.my-nav{
+    background-image: url('https://images.unsplash.com/photo-1682319481156-5beb20db2a4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNXx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60'); background-size: cover; background-attachment: fixed;
+}
+
+.pics{
+    height: 60vh; width: 100%;
+}
+
+.footer{
+    background-color: black; color: aliceblue;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold; 
+}
+
+.my-nav a{ 
+    color: rgb(191, 124, 42) !important;
+}
+
+
+p{
+    font-family: sans-serif;
+}
+
+a:hover{
+    color: rgb(94, 32, 218) !important;
+}
+
+li{ font-family: sans-serif;
+
+}
+
+.card:hover{
+    background-color: bisque;
+}
+
+p:hover{
+    background-color: rgb(194, 157, 228);
+}
+
+.btn:hover {
+    background-color: palevioletred;
+}

@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../bootstrap practice/horizon offices"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "horizon-office",
+    "liveServer.settings.port": 5501
+  }
+}

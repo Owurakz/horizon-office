@@ -1,0 +1,65 @@
+.my-nav{
+    background-image: url('https://images.unsplash.com/photo-1680268496444-1c51968fadb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60'); 
+    color: white; background-repeat: no-repeat; background-size: cover;
+}
+
+.my-nav a{
+    color: aliceblue !important;
+}
+
+.pics{
+    height: 80px; width: 100%;
+}
+
+.testimonial{
+    background-image: url('https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c30503617cac9b64365d2e_testimonial-bg.jpg');
+color: gray;
+}
+
+.aenean{
+    background-image: url('https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c31c59f69ff41454c71140_video.jpg');
+color: aqua;
+}
+
+.foot{
+    background-color: black; height: 200px;
+}
+
+.foot1{
+    color: aliceblue;
+}
+
+.owura{
+    color: blue;
+}
+.foot2{
+    color: gray;
+}
+
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 1.2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: rem;
+}
+
+a:hover{
+    color: goldenrod !important;
+}
+
+
+
+.card{
+    /* background: rgb(48, 207, 232); */
+    flex: 1; transition: .3s; 
+}
+
+.card:hover{
+    flex: 3;
+    background: rgb(12, 207, 195);
+}
+
+
+

@@ -1,0 +1,66 @@
+.bg-info {
+    background-color: #5d8818 !important;
+}
+
+.my-nav{
+    background-color: #DAF7DC; 
+    position: fixed; 
+     width: 100%; overflow: hidden; top: 0;
+}
+.bans{
+    background-color: #020122; color: white; margin-top: 80px;
+}
+
+.engaging{
+    background-color: #DCDCDD;  color: #020122;
+}
+
+.elevate{
+    background-color: #E0CA3C;
+}
+
+.table{
+    background-color: #93B7BE;
+}
+
+a{
+    color: #E0CA3C;
+}
+
+.foot{
+    border-top: black 2px solid;
+}
+
+.plans{ border-right: black 2px solid;
+
+}
+
+.my-nav a{
+    color: #020122; display: block; text-decoration: none;
+}
+
+.smallhead{ color: yellow;
+
+}
+
+.listing{
+ border-right: 1px white solid; padding-right: 4px;
+}
+
+.teams{
+    border-top: rgb(132, 124, 124) 3px solid;
+}
+
+.ent{
+    border-top: rgb(230, 128, 128) 3px solid;
+}
+
+.smallhead a:hover{
+    color: blue;
+}
+
+.smallhead a{
+    color: white;
+}
+
+

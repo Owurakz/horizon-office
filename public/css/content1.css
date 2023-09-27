@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.para{
+    border: 1px solid pink;  background-color: aqua;
+}
+
+.butt{
+    border: 1px solid pink; display: flex; justify-content: space-between; margin-bottom: 10px; ma
+}
+.pic{
+    height: 300px; width: 100%;
+}
+
+.submit,.tlc,.butt{
+    border: 1px solid salmon; margin: 10px; padding: 10px;
+}

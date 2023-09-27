@@ -1,0 +1,15 @@
+.food{
+    height: 200px; width: 100%;
+}
+
+body{
+    background-color: #E0DDCF;
+}
+
+.bg-light{
+    background-color: #D0FCB3 !important;
+}
+
+.card{
+    background-color: #F4FDD9;
+}

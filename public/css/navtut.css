@@ -1,0 +1,22 @@
+.my-nav {
+    background-color: #4e161b !important;
+}
+
+.link-items{
+    color: white !important;
+    padding: 30px;
+    font-family: sans-serif;
+    font-family: 30px;
+}
+
+.pizzaz{
+    height: 550px;
+}
+.my-pic{
+     height: 200px;
+}
+
+.footer{
+    background-color: #4e161b; color: white; height: 12vh; padding-top: 3vh; 
+    font-size: 30px; font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.my-tab{
+    justify-content: center;
+    align-content: center;
+    width: 400px;
+    border-width: 2px;
+  
+}
+
+.symbol{
+    background-color: rgb(232, 161, 67);  border-width: 2px;
+}
+
+.text{
+    background-color: rgb(234, 231, 231); text-align: center;  border-width: 2px;
+}
+
+.my-text{
+    background-color: grey;  border-width: 2px;
+    text-align: right;
+}
+

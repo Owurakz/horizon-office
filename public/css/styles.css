@@ -1,0 +1,69 @@
+body{
+	background-color: papayawhip;
+}
+.hothot{
+	background-color: orange;
+	color: white;
+}
+
+.footer{
+	background-color: yellowgreen;
+	border: solid 2px darkred;
+	height: 10vh;
+}
+
+.col1{
+	background-color: purple;
+	color: yellow;
+	border: solid 6px white;
+}
+
+.nestingcol{
+	background-color: blue;
+	height: 10vh; color: white;
+}
+
+.nestingcol2{
+	background-color: pink;
+	height: 10vh;
+	color: white;
+}
+
+.smallcol{
+	background-color: gray; 
+	color: white;
+}
+
+.smallcol2{
+	background-color: orange;
+	color: white;
+}
+
+.first{
+	border: black 2px solid;
+	height: 17vh; margin-top: 10px;
+}
+
+.second{
+	border: solid black 2px;
+	height: 10vh;
+	margin-top: 10px;
+}
+
+.third{
+	border: black solid 2px;
+	height: 10vh; margin-top: 10px;
+}
+
+.fourth{
+	border: black solid 2px;
+	height: 10vh; margin-top: 10px;
+
+}
+
+.fifth{
+	border: black solid 2px;
+	height: 10vh; margin-top: 10px;
+
+}
+

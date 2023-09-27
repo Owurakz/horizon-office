@@ -1,0 +1,23 @@
+.flags{
+    width: 70px; height: 40px;
+}
+
+.building{
+    height: 350px;
+}
+
+.thumb{
+    height: 150px;
+}
+
+.foot{
+    background-color: blue; color:white;
+}
+
+.foot a{
+    color: pink;
+}
+
+.perp{
+    color: black;
+}
